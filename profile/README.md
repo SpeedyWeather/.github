@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SpeedyWeather/.github/assets/25530332/6eae07d9-e4c7-48f0-9f12-dbb0740a8ff4" width="200"><br>
+  <img src="https://github.com/SpeedyWeather/.github/assets/25530332/d601801a-0f67-49c2-a004-b869bd897a3c" width="200"><br>
 </p>
   
 # SpeedyWeather
