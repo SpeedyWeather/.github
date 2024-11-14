@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/SpeedyWeather/.github/assets/25530332/d601801a-0f67-49c2-a004-b869bd897a3c" width="200"><br>
+  <img src="https://github.com/user-attachments/assets/234fa15c-e628-4ed9-8597-f104d5cc450c" width="200"><br>
 </p>
-  
+
 # SpeedyWeather
 We are an organisation!
 
