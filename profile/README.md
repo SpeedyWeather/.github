@@ -21,3 +21,7 @@ We are an organisation!
 
 - [RainMaker.jl](https://github.com/SpeedyWeather/RainMaker.jl), a repository to analyse and document the rainfall in one location
 - [WilliamsonTests.jl](https://github.com/SpeedyWeather/WilliamsonTests.jl), a repository for the Williamson et al. 1992 tests for solving the shallow water equations on the sphere
+
+## Documentation
+
+- [SpeedyWeatherDocumentation](https://github.com/SpeedyWeather/SpeedyWeather.jl), the repository where the [SpeedyWeather documentation](https://speedyweather.github.io/SpeedyWeatherDocumentation/dev/) (<- read here) is hosted 
