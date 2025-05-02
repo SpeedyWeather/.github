@@ -24,4 +24,4 @@ We are an organisation!
 
 ## Documentation
 
-- [SpeedyWeatherDocumentation](https://github.com/SpeedyWeather/SpeedyWeather.jl), the repository where the [SpeedyWeather documentation](https://speedyweather.github.io/SpeedyWeatherDocumentation/dev/) (<- read here) is hosted 
+- [SpeedyWeatherDocumentation](https://github.com/SpeedyWeather/SpeedyWeatherDocumentation), the repository where the [SpeedyWeather documentation](https://speedyweather.github.io) is hosted 
