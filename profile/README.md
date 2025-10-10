@@ -21,6 +21,7 @@ We are an organisation!
 ## Repositories for SpeedyWeather analysis
 
 - [RainMaker.jl](https://github.com/SpeedyWeather/RainMaker.jl), a repository to analyse and document the rainfall in one location
+- [TravellingSailorProblem.jl](https://github.com/SpeedyWeather/TravellingSailorProblem.jl), a repository to optimize trajectories of flying balloons. So that all children get their presents in time for Christmas.
 - [WilliamsonTests.jl](https://github.com/SpeedyWeather/WilliamsonTests.jl), a repository for the Williamson et al. 1992 tests for solving the shallow water equations on the sphere
 
 ## Documentation
