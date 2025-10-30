@@ -15,7 +15,7 @@ We are an organisation!
 
 ## Repositories for model setups
 
-- [StochasticStir.jl](https://github.com/SpeedyWeather/StochasticStir.jl), for stochastic stirring of vorticity in mid-latitudes with a jetstream-dependent drag term.
+- (ARCHIVED) [StochasticStir.jl](https://github.com/SpeedyWeather/StochasticStir.jl), for stochastic stirring of vorticity in mid-latitudes with a jetstream-dependent drag term.
 - [ManyZonalJets.jl](https://github.com/SpeedyWeather/ManyZonalJets.jl) as initial conditions for SpeedyWeather's shallow-water model with each jet following [Galewsky, 2004](https://doi.org/10.3402/tellusa.v56i5.14436).
 
 ## Repositories for SpeedyWeather analysis
