@@ -1,7 +1,8 @@
 <img width="1745" height="528" alt="speedyweather_logo 001" src="https://github.com/user-attachments/assets/695d37b0-4f98-4671-b25f-0022fc897ff3" />
 
 # SpeedyWeather
-We are an organisation!
+
+The SpeedyWeather organization is part of [NumericalEarth](https://github.com/NumericalEarth)!
 
 ## Projects
 
