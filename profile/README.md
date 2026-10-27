@@ -20,7 +20,8 @@ The SpeedyWeather organization is part of [NumericalEarth](https://github.com/Nu
 
 - [RainMaker.jl](https://github.com/SpeedyWeather/RainMaker.jl), a repository to analyse and document the rainfall in one location.
 - [TravellingSailorProblem.jl](https://github.com/SpeedyWeather/TravellingSailorProblem.jl), a repository to optimize trajectories of flying balloons.
-- [WilliamsonTests.jl](https://github.com/SpeedyWeather/WilliamsonTests.jl), a repository for the Williamson et al. 1992 tests for solving the shallow water equations on the sphere.
+- [SpeedyCalibration.jl](https://github.com/SpeedyWeather/SpeedyCalibration.jl), parameter calibration in SpeedyWeather.
+- [Chiaroscuro.jl](https://github.com/SpeedyWeather/Chiaroscuro.jl), learn and optimize albedo.
 
 ## Documentation
 
